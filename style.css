@@ -8,7 +8,7 @@
     clear: both;
 }
 body{
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Hind Siliguri', sans-serif;
 }
 
 img{
@@ -18,10 +18,14 @@ a{
     text-decoration: none;
 }
 p{
-    color: #333;
-    font-family: 'Open Sans';
-    line-height: 1.5;
+    font-family: Hind Siliguri;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    color: #000;
 }
+
 .d_title{
     font-size: 30px;
     text-transform: capitalize;
